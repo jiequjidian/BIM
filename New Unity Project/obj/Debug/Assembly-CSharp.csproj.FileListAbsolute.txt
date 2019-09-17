@@ -1,0 +1,1358 @@
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\mscorlib.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\netstandard.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\nunit.framework.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.AppContext.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Collections.Concurrent.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Collections.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Collections.NonGeneric.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Collections.Specialized.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ComponentModel.Composition.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ComponentModel.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Console.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Core.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Data.Common.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Data.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.Debug.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.Process.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.Tools.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Drawing.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Drawing.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Dynamic.Runtime.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Globalization.Calendars.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Globalization.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Globalization.Extensions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.Compression.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.FileSystem.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.Pipes.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Linq.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Linq.Expressions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Linq.Parallel.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Linq.Queryable.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Http.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.NameResolution.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.NetworkInformation.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Ping.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Requests.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Security.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.Sockets.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Net.WebSockets.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Numerics.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Numerics.Vectors.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ObjectModel.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Reflection.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Reflection.Extensions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Reflection.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Resources.Reader.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Resources.ResourceManager.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Resources.Writer.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Extensions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Handles.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.InteropServices.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Numerics.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Claims.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.Principal.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Security.SecureString.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ServiceModel.Web.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Text.Encoding.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Text.RegularExpressions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.Overlapped.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.Tasks.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.Thread.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.ThreadPool.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Threading.Timer.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Transactions.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.ValueTuple.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Web.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Windows.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.Serialization.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.XDocument.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.XmlDocument.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.XPath.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Locator.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Timeline.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Timeline.Editor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEditor.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Cecil.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEditor.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Timeline.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.TextMeshPro.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VFXModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\nunit.framework.xml
+E:\Unity\项目\New Unity Project(魏)\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Unity\项目\New Unity Project(魏)\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Unity\项目\New Unity Project(魏)\obj\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project(魏)\obj\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\LitJson.dll
+E:\Unity\项目\New Unity Project(魏)\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\LitJson.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\mscorlib.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\netstandard.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.AppContext.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Collections.Concurrent.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Collections.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Collections.NonGeneric.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Collections.Specialized.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ComponentModel.Composition.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ComponentModel.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Console.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Core.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Data.Common.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Data.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.Debug.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.Process.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tools.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Drawing.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Drawing.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Dynamic.Runtime.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Globalization.Calendars.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Globalization.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Globalization.Extensions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.Compression.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.Pipes.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Linq.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Linq.Expressions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Linq.Parallel.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Linq.Queryable.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Http.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.NameResolution.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.NetworkInformation.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Ping.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Requests.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Security.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.Sockets.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Numerics.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Numerics.Vectors.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ObjectModel.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Reflection.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Reflection.Extensions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Reflection.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Resources.Reader.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Resources.ResourceManager.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Resources.Writer.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Extensions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Handles.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Numerics.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Claims.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.Principal.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Security.SecureString.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ServiceModel.Web.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Text.Encoding.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Text.RegularExpressions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.Overlapped.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.Thread.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.ThreadPool.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Threading.Timer.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Transactions.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.ValueTuple.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Web.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Windows.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.Serialization.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.XDocument.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.XmlDocument.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.XPath.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Locator.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Timeline.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Timeline.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Unity\项目\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+E:\Unity\项目\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Unity\项目\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Unity\项目\New Unity Project\obj\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\LitJson.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\mscorlib.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\netstandard.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.AppContext.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Collections.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Console.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Core.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Data.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Drawing.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Globalization.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Linq.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Numerics.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Reflection.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Transactions.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Web.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Windows.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\dell\Desktop\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\dell\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\dell\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\dell\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\LitJson.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\mscorlib.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\netstandard.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.AppContext.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Collections.Concurrent.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Collections.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Collections.NonGeneric.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Collections.Specialized.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ComponentModel.Composition.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ComponentModel.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Console.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Core.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Data.Common.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Data.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.Debug.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.Process.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tools.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Drawing.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Drawing.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Dynamic.Runtime.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Globalization.Calendars.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Globalization.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Globalization.Extensions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.Compression.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.Pipes.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Linq.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Linq.Expressions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Linq.Parallel.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Linq.Queryable.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Http.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.NameResolution.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.NetworkInformation.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Ping.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Requests.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Security.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.Sockets.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Numerics.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Numerics.Vectors.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ObjectModel.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Reflection.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Reflection.Extensions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Reflection.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Resources.Reader.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Resources.ResourceManager.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Resources.Writer.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Extensions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Handles.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Numerics.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Claims.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.Principal.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Security.SecureString.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ServiceModel.Web.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Text.Encoding.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Text.RegularExpressions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.Overlapped.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.Thread.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.ThreadPool.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Threading.Timer.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Transactions.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.ValueTuple.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Web.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Windows.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.Linq.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.Serialization.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.XDocument.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.XmlDocument.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.XPath.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Locator.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Timeline.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.IvyParser.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Timeline.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\unity gongcheng\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+E:\unity gongcheng\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\unity gongcheng\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\unity gongcheng\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\unity gongcheng\New Unity Project\obj\Debug\Assembly-CSharp.dll
+E:\unity gongcheng\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\LitJson.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\mscorlib.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\netstandard.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.AppContext.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Collections.Concurrent.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Collections.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Collections.NonGeneric.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Collections.Specialized.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ComponentModel.Composition.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ComponentModel.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Console.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Core.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Data.Common.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Data.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.Debug.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.Process.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tools.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Drawing.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Drawing.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Dynamic.Runtime.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Globalization.Calendars.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Globalization.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Globalization.Extensions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.Compression.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.Pipes.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Linq.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Linq.Expressions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Linq.Parallel.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Linq.Queryable.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Http.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.NameResolution.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.NetworkInformation.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Ping.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Requests.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Security.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.Sockets.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Net.WebSockets.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Numerics.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Numerics.Vectors.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ObjectModel.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Reflection.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Reflection.Extensions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Reflection.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Resources.Reader.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Resources.ResourceManager.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Resources.Writer.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Extensions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Handles.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Numerics.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Claims.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.Principal.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Security.SecureString.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ServiceModel.Web.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Text.Encoding.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Text.RegularExpressions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.Overlapped.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.Thread.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.ThreadPool.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Threading.Timer.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Transactions.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.ValueTuple.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Web.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Windows.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.Serialization.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.XDocument.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.XmlDocument.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.XPath.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Locator.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Timeline.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Timeline.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VFXModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.pdb
