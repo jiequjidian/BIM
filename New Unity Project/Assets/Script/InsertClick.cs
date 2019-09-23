@@ -62,11 +62,11 @@ public class InsertClick : MonoBehaviour
         if (ServerStr == "1")
         {
             Destroy(itemObject1);
-            //PromptMsg.GetInstance().MsgBox("添加成功！", HintWindow);
+            PromptMsg.GetInstance().MsgBox("添加成功！", HintWindow);
         }
         else
         {
-            //PromptMsg.GetInstance().MsgBox("添加失败！", HintWindow);
+            PromptMsg.GetInstance().MsgBox("添加失败！", HintWindow);
         }
         
 

@@ -16,20 +16,24 @@ public class ToggletClick3 : MonoBehaviour
 
     public ToggleGroup tg;
 
-    void Start()
-    {
-        Toggle tl3 = GameObject.Find("分类3").GetComponent<Toggle>();
-        Text txt3 = GameObject.Find("Text3").GetComponent<Text>();
+    //void Start()
+    //{
+    //    Toggle tl3 = GameObject.Find("分类3").GetComponent<Toggle>();
+    //    Text txt3 = GameObject.Find("Text3").GetComponent<Text>();
 
-        tl3.onValueChanged.AddListener(state => { if (state) { OnValueChanged(state, txt3); } });
-    }
+    //    tl3.onValueChanged.AddListener(state => { if (state) { OnValueChanged(state, txt3); } });
+    //}
 
-    public void OnValueChanged(bool state, Text txt)
+    public void OnValueChanged3(bool state)
     {
-        Debug.Log(txt.text + ",toggle change " + state);
+        if (state == false)
+            return;
+
+        Text txt = GameObject.Find("Text3").GetComponent<Text>();
+        //Debug.Log("toggle text： " + txt.text + ",toggle change：" + state + ",toggle name：" + gameObject.name);
 
         //修改类别为单选
-        tg.allowSwitchOff = false;
+        //tg.allowSwitchOff = false;
         screen.SetActive(false);
 
         string ServerStr = SocketClient.Send("0*" + txt.text);

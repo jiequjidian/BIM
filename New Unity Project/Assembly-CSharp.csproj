@@ -64,7 +64,6 @@
   <ItemGroup>
     <Compile Include="Assets\Addons\CameraPathCreator\DEMO\CPC_DEMO_UpDown.cs" />
     <Compile Include="Assets\Addons\CameraPathCreator\Scripts\CPC_CameraPath.cs" />
-    <Compile Include="Assets\but.cs" />
     <Compile Include="Assets\Model\Equipment_Model.cs" />
     <Compile Include="Assets\Model\EquipmentType_Model.cs" />
     <Compile Include="Assets\Script\AnimationTest.cs" />

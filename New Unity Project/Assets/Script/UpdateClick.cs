@@ -14,18 +14,18 @@ public class UpdateClick : MonoBehaviour
     public GameObject HintWindow;
     static GameObject itemObject1;
 
-    public static Text text0;
-    public static Text text1;
-    public static Text text2;
-    public static Text text3;
-    public static Text text4;
-    public static Text text5;
+    Text text0;
+    Text text1;
+    Text text2;
+    Text text3;
+    Text text4;
+    Text text5;
 
-    public InputField input1;
-    public InputField input2;
-    public InputField input3;
-    public InputField input4;
-    public InputField input5;
+    InputField input1;
+    InputField input2;
+    InputField input3;
+    InputField input4;
+    InputField input5;
 
     public CanvasGroup canvasgroup;
 

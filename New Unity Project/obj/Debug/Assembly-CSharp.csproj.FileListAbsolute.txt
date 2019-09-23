@@ -1209,7 +1209,6 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.Tracker.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Locator.dll
-E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Timeline.dll
@@ -1290,7 +1289,6 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.TextMeshPro.pdb
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
-E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AIModule.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.ARModule.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
@@ -1351,8 +1349,11 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Unity
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit.framework.xml
-E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.dll
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\Boo.Lang.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.UI.dll
+E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.UI.xml
+E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache

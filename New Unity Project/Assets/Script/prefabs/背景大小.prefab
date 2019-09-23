@@ -651,7 +651,6 @@ GameObject:
   - component: {fileID: 5667317655892174448}
   - component: {fileID: 331869521350748804}
   - component: {fileID: 5667317655892174462}
-  - component: {fileID: 5667317655892174463}
   - component: {fileID: 913124509}
   m_Layer: 5
   m_Name: "\u7C7B\u522B"
@@ -736,23 +735,7 @@ MonoBehaviour:
   m_Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AllowSwitchOff: 0
---- !u!114 &5667317655892174463
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5667317655892174460}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50e1466f9e38ebd489dd08029f0c6915, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Txt1: {fileID: 5667317657531695341}
-  Txt2: {fileID: 5667317655914588906}
-  Txt3: {fileID: 5667317656449973598}
-  Txt4: {fileID: 5667317657315405950}
+  m_AllowSwitchOff: 1
 --- !u!114 &913124509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1081,7 +1064,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5667317656189211004
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2236,7 +2219,7 @@ CanvasGroup:
   m_Enabled: 1
   m_Alpha: 1
   m_Interactable: 1
-  m_BlocksRaycasts: 0
+  m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
 --- !u!114 &5667317657021754278
 MonoBehaviour:
@@ -2254,11 +2237,6 @@ MonoBehaviour:
     type: 3}
   HintWindow: {fileID: 7133955237363645448, guid: 93a1557ce33d01c4c8328022d3b97b53,
     type: 3}
-  input1: {fileID: 0}
-  input2: {fileID: 0}
-  input3: {fileID: 0}
-  input4: {fileID: 0}
-  input5: {fileID: 0}
   canvasgroup: {fileID: 5667317657021754279}
 --- !u!114 &5667317657021754277
 MonoBehaviour:
@@ -2773,7 +2751,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  m_IsOn: 1
+  m_IsOn: 0
 --- !u!114 &5667317657157727792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3620,7 +3598,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}

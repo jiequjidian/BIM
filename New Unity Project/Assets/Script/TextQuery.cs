@@ -29,7 +29,7 @@ public class TextQuery : MonoBehaviour
 
     void InputEnd(string str)
     {
-        tg.allowSwitchOff = true;
+        //tg.allowSwitchOff = true;
         tl1.isOn = false;
         tl2.isOn = false;
         tl3.isOn = false;
