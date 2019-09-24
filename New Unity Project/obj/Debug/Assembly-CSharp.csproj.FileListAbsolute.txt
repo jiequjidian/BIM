@@ -1630,7 +1630,7 @@ D:\git\BIM\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.
 D:\git\BIM\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\git\BIM\New Unity Project\obj\Debug\Assembly-CSharp.dll
 D:\git\BIM\New Unity Project\obj\Debug\Assembly-CSharp.pdb
-=======
+
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp.dll
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp.pdb
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
@@ -3260,4 +3260,7 @@ C:\Users\dell\Documents\GitHub\BIM\New Unity Project\obj\Debug\Assembly-CSharp.c
 C:\Users\dell\Documents\GitHub\BIM\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\dell\Documents\GitHub\BIM\New Unity Project\obj\Debug\Assembly-CSharp.dll
 C:\Users\dell\Documents\GitHub\BIM\New Unity Project\obj\Debug\Assembly-CSharp.pdb
->>>>>>> fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d
+ HEAD
+fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d
+
+ fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d

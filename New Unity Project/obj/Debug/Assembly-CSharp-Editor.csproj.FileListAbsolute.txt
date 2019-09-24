@@ -879,7 +879,7 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.VR.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
-=======
+
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp-Editor.dll
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
 E:\Unity\项目\New Unity Project(魏)\Temp\bin\Debug\Boo.Lang.dll
@@ -1760,4 +1760,7 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.VR.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
->>>>>>> fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d
+ HEAD
+ fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d
+
+ fcf44dd04a2e3b23f0872a0785bc9baa53fbe61d
