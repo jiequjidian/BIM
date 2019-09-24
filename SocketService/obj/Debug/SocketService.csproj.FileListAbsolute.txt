@@ -12,3 +12,10 @@ C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService\obj\Debug\Sock
 C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService\obj\Debug\SocketService.exe
 C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService\obj\Debug\SocketService.pdb
 C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService\obj\Debug\SocketService.csprojAssemblyReference.cache
+D:\git\BIM\SocketService\obj\Debug\SocketService.csprojAssemblyReference.cache
+D:\git\BIM\SocketService\obj\Debug\SocketService.Service.resources
+D:\git\BIM\SocketService\obj\Debug\SocketService.Properties.Resources.resources
+D:\git\BIM\SocketService\obj\Debug\SocketService.csproj.GenerateResource.cache
+D:\git\BIM\SocketService\obj\Debug\SocketService.csproj.CoreCompileInputs.cache
+D:\git\BIM\SocketService\obj\Debug\SocketService.exe
+D:\git\BIM\SocketService\obj\Debug\SocketService.pdb

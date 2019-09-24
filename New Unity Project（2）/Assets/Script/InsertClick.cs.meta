@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4d519d15c4d1dc74c93153df9f4a3855
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InputName: {instanceID: 0}
+  - InputSpecifications: {instanceID: 0}
+  - InputNumber: {instanceID: 0}
+  - InputUnit: {instanceID: 0}
+  - InputRemarks: {instanceID: 0}
+  - InsertWindow: {fileID: 1486972454987204186, guid: 600bccc1dc7196a46b570d3f905fd45d,
+      type: 3}
+  - canvasgroup: {fileID: 1702876893830585510, guid: 31b13e553f3be364dafab12f08b2f0a2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -110,4 +110,32 @@ public class SocketClient : MonoBehaviour
 
         return str;
     }
+
+    /// <summary>
+    /// Close the socket safely.
+    /// </summary>
+    /// <param name="socket">The socket.</param>
+    public static void SafeClose()
+    {
+        if (sService == null)
+            return;
+        if (!sService.Connected)
+            return;
+        try
+        {
+            sService.Shutdown(SocketShutdown.Both);
+        }
+        catch
+        {
+
+        }
+        try
+        {
+            sService.Close();
+        }
+        catch
+        {
+
+        }
+    }
 }

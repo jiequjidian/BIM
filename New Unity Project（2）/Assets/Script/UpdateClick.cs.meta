@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cd5a3ec4026acf8468a12380cd8c3ae6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UpdateWindow: {fileID: 7466617225788178825, guid: ce359a4d09cfc9e4fb1872e324118f4c,
+      type: 3}
+  - input1: {instanceID: 0}
+  - input2: {instanceID: 0}
+  - input3: {instanceID: 0}
+  - input4: {instanceID: 0}
+  - input5: {instanceID: 0}
+  - canvasgroup: {fileID: 1702876893830585510, guid: 31b13e553f3be364dafab12f08b2f0a2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
