@@ -30,11 +30,11 @@ public class ToggletClick4 : MonoBehaviour
             return;
 
         Text txt = GameObject.Find("Text4").GetComponent<Text>();
-        //Debug.Log("toggle text： " + txt.text + ",toggle change：" + state + ",toggle name：" + gameObject.name);
 
         //修改类别为单选
         //tg.allowSwitchOff = false;
-        screen.SetActive(false);
+        if (screen.activeInHierarchy)
+            screen.SetActive(false);
 
         string ServerStr = SocketClient.Send("0*" + txt.text);
         List<Equipment_Model> emList = JsonMapper.ToObject<List<Equipment_Model>>(ServerStr);
