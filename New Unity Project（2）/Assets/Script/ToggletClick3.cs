@@ -37,7 +37,7 @@ public class ToggletClick3 : MonoBehaviour
         screen.SetActive(false);
 
         string ServerStr = SocketClient.Send("0*" + txt.text);
-        List<Equipment_Model> emList = JsonMapper.ToObject<List<Equipment_Model>>(ServerStr);
+        List<Basic_Information_model> emList = JsonMapper.ToObject<List<Basic_Information_model>>(ServerStr);
 
         //销毁预制体
         DetailsAssets.NewDestroyedObjects(slotPanel);

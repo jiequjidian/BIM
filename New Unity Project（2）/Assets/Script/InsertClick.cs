@@ -34,7 +34,7 @@ public class InsertClick : MonoBehaviour
     public void OnClick()
     {
 
-        Equipment_Model em = new Equipment_Model();
+        Equipment_model em = new Equipment_model();
         em.E_Name = InputName.text;
         switch (DdList.options[DdList.value].text)
         {

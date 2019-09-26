@@ -78,7 +78,7 @@ public class UpdateClick : MonoBehaviour
 
     public void QueDingClick()
     {
-        Equipment_Model em = new Equipment_Model();
+        Equipment_model em = new Equipment_model();
         em.E_ID = text0.text.Substring(3);
         em.E_Name = input1.text;
         em.E_Specifications = input2.text;

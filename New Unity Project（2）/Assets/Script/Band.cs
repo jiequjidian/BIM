@@ -28,7 +28,7 @@ public class Band : MonoBehaviour
             {
                 print("暂无返回值");
             }
-            List<EquipmentType_Model> etmList = JsonMapper.ToObject<List<EquipmentType_Model>>(ServerStr);
+            List<AssetClasses_model> etmList = JsonMapper.ToObject<List<AssetClasses_model>>(ServerStr);
 
             Txt1.text = etmList[0].Type_Name;
             Txt2.text = etmList[1].Type_Name;

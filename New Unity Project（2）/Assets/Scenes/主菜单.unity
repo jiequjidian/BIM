@@ -2373,6 +2373,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u80CC\u666F\u5927\u5C0F1"
       objectReference: {fileID: 0}
+    - target: {fileID: 5667317656673475242, guid: d3e3ecb464fa5434285ea6cb01d585fb,
+        type: 3}
+      propertyPath: slotPanel
+      value: 
+      objectReference: {fileID: 1408443838}
     - target: {fileID: 5667317657021754277, guid: d3e3ecb464fa5434285ea6cb01d585fb,
         type: 3}
       propertyPath: InputName
@@ -2503,6 +2508,16 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5667317656552791247, guid: d3e3ecb464fa5434285ea6cb01d585fb,
+        type: 3}
+      propertyPath: slotPanel
+      value: 
+      objectReference: {fileID: 1938779226}
+    - target: {fileID: 5667317657157727792, guid: d3e3ecb464fa5434285ea6cb01d585fb,
+        type: 3}
+      propertyPath: slotPanel
+      value: 
+      objectReference: {fileID: 1314224560}
     - target: {fileID: 6459629649313127465, guid: d3e3ecb464fa5434285ea6cb01d585fb,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -2548,21 +2563,6 @@ PrefabInstance:
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
-    - target: {fileID: 5667317656552791247, guid: d3e3ecb464fa5434285ea6cb01d585fb,
-        type: 3}
-      propertyPath: slotPanel
-      value: 
-      objectReference: {fileID: 1938779226}
-    - target: {fileID: 5667317656673475242, guid: d3e3ecb464fa5434285ea6cb01d585fb,
-        type: 3}
-      propertyPath: slotPanel
-      value: 
-      objectReference: {fileID: 1408443838}
-    - target: {fileID: 5667317657157727792, guid: d3e3ecb464fa5434285ea6cb01d585fb,
-        type: 3}
-      propertyPath: slotPanel
-      value: 
-      objectReference: {fileID: 1314224560}
     - target: {fileID: 5667317656552791232, guid: d3e3ecb464fa5434285ea6cb01d585fb,
         type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.size
@@ -2667,6 +2667,11 @@ PrefabInstance:
         type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5667317657034613800, guid: d3e3ecb464fa5434285ea6cb01d585fb,
+        type: 3}
+      propertyPath: m_Text
+      value: "\u8BBE\u5907\u4FE1\u606F"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d3e3ecb464fa5434285ea6cb01d585fb, type: 3}

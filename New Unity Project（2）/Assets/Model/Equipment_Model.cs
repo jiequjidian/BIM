@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Assets.Model
 {
-    public class Equipment_Model
+    public class Equipment_model
     {
         /// <summary>
         /// 编号
@@ -36,7 +36,5 @@ namespace Assets.Model
         /// 备注
         /// </summary>
         public string E_Remarks { get; set; }
-
-        public static List<Equipment_Model> emList { get; set; }
     }
 }

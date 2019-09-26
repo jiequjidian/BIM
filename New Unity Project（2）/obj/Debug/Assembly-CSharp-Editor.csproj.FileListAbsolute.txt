@@ -878,3 +878,7 @@ E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\nunit
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.VR.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
 E:\Unity\项目\New Unity Project20190911\New Unity Project\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
+C:\Users\dell\Documents\GitHub\BIM\New Unity Project（2）\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\BIM\New Unity Project（2）\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\BIM\New Unity Project（2）\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\dell\Documents\GitHub\BIM\New Unity Project（2）\obj\Debug\Assembly-CSharp-Editor.pdb

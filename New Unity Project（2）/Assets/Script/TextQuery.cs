@@ -45,7 +45,7 @@ public class TextQuery : MonoBehaviour
             return;
         }
         string ServerStr = SocketClient.Send("4*" + str);
-        List<Equipment_Model> emList = JsonMapper.ToObject<List<Equipment_Model>>(ServerStr);
+        List<Basic_Information_model> emList = JsonMapper.ToObject<List<Basic_Information_model>>(ServerStr);
 
         //销毁预制体
         DetailsAssets.NewDestroyedObjects(slotPanel);

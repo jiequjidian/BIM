@@ -1,0 +1,11 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\App.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\Assets.dll.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\Assets.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\Assets.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\log4net.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\bin\Debug\log4net.xml
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\obj\Debug\Business.csproj.CopyComplete
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\obj\Debug\Assets.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\obj\Debug\Assets.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\SocketService（2）\Assets\obj\Debug\Business.csprojAssemblyReference.cache
